@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>KiloboltGame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>background.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/background.png</location>
+		</link>
+		<link>
+			<name>src/data/background.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/background.png</location>
+		</link>
+		<link>
+			<name>src/data/character.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/character.png</location>
+		</link>
+		<link>
+			<name>src/data/characterDown.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/characterDown.png</location>
+		</link>
+		<link>
+			<name>src/data/characterJumped.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/characterJumped.png</location>
+		</link>
+		<link>
+			<name>src/data/heliboy.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/heliboy.png</location>
+		</link>
+		<link>
+			<name>src/data/heliboy2.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/heliboy2.png</location>
+		</link>
+		<link>
+			<name>src/data/heliboy3.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/heliboy3.png</location>
+		</link>
+		<link>
+			<name>src/data/heliboy4.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/heliboy4.png</location>
+		</link>
+		<link>
+			<name>src/data/heliboy5.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/heliboy5.png</location>
+		</link>
+		<link>
+			<name>src/data/map1.txt</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/map1.txt</location>
+		</link>
+		<link>
+			<name>src/data/tiledirt.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/tiledirt.png</location>
+		</link>
+		<link>
+			<name>src/data/tilegrassbot.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/tilegrassbot.png</location>
+		</link>
+		<link>
+			<name>src/data/tilegrassleft.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/tilegrassleft.png</location>
+		</link>
+		<link>
+			<name>src/data/tilegrassright.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/tilegrassright.png</location>
+		</link>
+		<link>
+			<name>src/data/tilegrasstop.png</name>
+			<type>1</type>
+			<location>C:/Users/Boonsiang T/Downloads/KiloBolt Java SOurce Code/tilegrasstop.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
